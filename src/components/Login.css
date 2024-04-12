@@ -1,0 +1,39 @@
+.login-center {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    border-radius: 15px;
+    padding: 35px;
+    background: white;
+    height: 330px;
+
+
+
+}
+
+button {
+    border: none;
+    background: linen;
+    border-radius: 9px;
+
+    background-color: rgb(255, 184, 45);
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-login {
+    background-image: url('src/assets/gr-3.png');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+
+}

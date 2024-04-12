@@ -1,0 +1,31 @@
+.data-grid-row {
+    border: 5px solid green;
+}
+
+.header-bold {
+    font-weight: 600 !important;
+}
+
+.button-properties {
+    padding: 5px;
+    border: none;
+    background: #17B444;
+    border-radius: 0px;
+    width: 90px;
+    height: 30px;
+    margin-left: 15px;
+    color: white;
+    position: relative;
+    top: -4px;
+}
+
+
+.centered-header .MuiDataGrid-colCellTitle {
+    text-align: center !important;
+}
+
+.pos {
+    position: absolute;
+    right: 35px;
+    top: 15px;
+}
